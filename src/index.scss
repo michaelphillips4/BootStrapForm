@@ -1,0 +1,25 @@
+$body-bg:  rgb(247, 247, 247);;
+
+$theme-colors: (
+  "primary":#d1e7dd
+);
+
+@import "bootstrap/scss/bootstrap";
+
+form{
+    padding: 10px;
+}
+
+.card
+{ 
+    margin-top: 40px;
+}
+
+h1{
+    text-align: center;
+}
+
+.alert{
+   margin: 10px;
+    background-color: #d1e7dd;
+}
